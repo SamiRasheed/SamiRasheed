@@ -37,7 +37,7 @@ I am Sami Rasheed, a full stack web developer who is dedicated to crafting visua
 </p>
 
   ### Socials
-<p align="left"> </a> <a href="https://www.facebook.com/samirasheed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+<p align="left"> </a> <a href="https://www.facebook.com/profile.php?id=100078402046815" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
 </a></p>
 <!--   ### Badges -->
 <b>My GitHub Stats</b>
