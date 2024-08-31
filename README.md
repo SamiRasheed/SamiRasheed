@@ -1,7 +1,7 @@
 [![MasterHead](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)]
 <h1 align="center">Hi 👋, I'm Sami Rasheed</h1>
 <h3 align="center">A full stack web developer who is dedicated to crafting visually stunning and user-friendly websites. I am always striving to improve my skills and knowledge, eager to learn new technologies and keep up with industry trends. Every day, I set myself new challenges and opportunities to grow as a developer, constantly pushing my own boundaries.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-cartoon-character-coding-icon-vector_1080480-50016.jpg"?
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/programmer-cartoon-character-coding-icon-vector_1080480-50016.jpg"?
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirasheed&label=Profile%20views&color=0e75b6&style=flat" alt="samirasheed" /> </p>
 
