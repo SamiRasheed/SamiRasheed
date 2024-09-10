@@ -1,4 +1,5 @@
-[![MasterHead](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)]
+![51350239267_54560763e6_b](https://github.com/user-attachments/assets/4ef70720-f880-415e-8818-376149adf306)
+
 <h1 align="center">Hi 👋, I'm Sami Rasheed</h1>
 <h3 align="center">A full stack web developer who is dedicated to crafting visually stunning and user-friendly websites. I am always striving to improve my skills and knowledge, eager to learn new technologies and keep up with industry trends. Every day, I set myself new challenges and opportunities to grow as a developer, constantly pushing my own boundaries.</h3>
 
